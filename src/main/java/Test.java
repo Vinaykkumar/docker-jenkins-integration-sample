@@ -1,6 +1,6 @@
 public class Test {
 
     public static void main(String[] args) {
-        System.out.println("Hello Infokalash");
+        System.out.println("Hello Infokalash IT Service");
     }
 }
